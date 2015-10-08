@@ -4,4 +4,4 @@ push second
 for feature A
 for branch fix-b
 for feature c
-for feature D
+for feature D another author
