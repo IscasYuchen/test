@@ -3,4 +3,5 @@ branch master
 push second
 for feature A
 for branch fix-b
+for feature c
 
